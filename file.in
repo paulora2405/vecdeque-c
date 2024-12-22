@@ -1,0 +1,6 @@
+N=3;
+Pt=[;mpr1;mpr2;;mro1;mro2;mro3;;mve1;mve2;mve3;mve3;];
+FCve=[;mve1;mve2;mve3;mve3;];
+FCaz=[;maz1;maz2;maz3;];
+FCro=[;mro1;mro2;mro3;];
+FCpr=[;mpr1;mpr2;];
